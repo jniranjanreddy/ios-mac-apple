@@ -1,4 +1,8 @@
 ## MAC OS Versions
+## hOW TO FIND uuid in iPad
+```
+https://www.igeeksblog.com/how-to-find-iphone-udid-number/
+```
 ## https://www.youtube.com/watch?v=qxYq8R8rOTA
 ```
 macOS	Latest version
