@@ -1,5 +1,5 @@
 ## MAC OS Versions
-## hOW TO FIND uuid in iPad
+## How to find uuid of iPad
 ```
 https://www.igeeksblog.com/how-to-find-iphone-udid-number/
 ```
