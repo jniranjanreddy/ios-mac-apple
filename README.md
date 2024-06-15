@@ -45,3 +45,4 @@ VBoxManage setextradata "Virtual Machine Name" "VBoxInternal/Devices/efi/0/Confi
 VBoxManage setextradata "Virtual Machine Name" "VBoxInternal/Devices/smc/0/Config/DeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
 VBoxManage setextradata "Virtual Machine Name" "VBoxInternal/Devices/smc/0/Config/GetKeyFromRealSMC" 1
 ```
+![image](https://github.com/jniranjanreddy/mobile/assets/83489863/85c28568-35e7-45c6-a0b9-995bbd4a7e33)
